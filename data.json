@@ -1,0 +1,2991 @@
+[
+  {
+    "nome_centralina": "Altamura - Via Santeramo",
+    "comune": "Altamura",
+    "provincia": "Bari",
+    "valore": 29.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Caldarola",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 34.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Carbonara",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 35.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Cavour",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 39.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "Bari - CUS",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 39.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "Bari - Kennedy",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 35.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "CIAPI",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Japigia",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Politecnico",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "STANIC",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bitonto - EN01",
+    "comune": "Bitonto",
+    "provincia": "Bari",
+    "valore": 33.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "Casamassima - LaPenna",
+    "comune": "Casamassima",
+    "provincia": "Bari",
+    "valore": 25.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "ENAIP",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN02",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 29.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN03",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 39.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN04",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 41.0,
+    "superamenti_pm10": 3.0
+  },
+  {
+    "nome_centralina": "Via Magna Grecia",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "ASM",
+    "comune": "Molfetta",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Molfetta - Verdi",
+    "comune": "Molfetta",
+    "provincia": "Bari",
+    "valore": 42.0,
+    "superamenti_pm10": 11.0
+  },
+  {
+    "nome_centralina": "Monopoli - Aldo Moro",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 22.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "Monopoli - ItalGreen (Liceo Artistico L. Russo)",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 21.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Palo del Colle - EN05",
+    "comune": "Palo del Colle",
+    "provincia": "Bari",
+    "valore": 39.0,
+    "superamenti_pm10": 3.0
+  },
+  {
+    "nome_centralina": "Andria - Via Vaccina",
+    "comune": "Andria",
+    "provincia": "BAT",
+    "valore": 33.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - Casardi",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 35.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - MM Ipercoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 42.0,
+    "superamenti_pm10": 4.0
+  },
+  {
+    "nome_centralina": "Mezzo Mobile - IperCoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Terminal Passeggeri",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Bozzano",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Cappuccini",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 28.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Casale",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 27.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Perrino",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 24.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - SISRI",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Via dei Mille",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 17.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi -Via Taranto",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 31.0,
+    "superamenti_pm10": 2.0
+  },
+  {
+    "nome_centralina": "Ceglie Messapica - Via Martina",
+    "comune": "Ceglie Messapica",
+    "provincia": "Brindisi",
+    "valore": 21.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Cisternino - Via Croce",
+    "comune": "Cisternino",
+    "provincia": "Brindisi",
+    "valore": 17.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Francavilla Fontana - Via Filzi",
+    "comune": "Francavilla Fontana",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mesagne - Via Udine",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "valore": 42.0,
+    "superamenti_pm10": 2.0
+  },
+  {
+    "nome_centralina": "San Pancrazio Salentino - Via Deledda",
+    "comune": "San Pancrazio Salentino",
+    "provincia": "Brindisi",
+    "valore": 28.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Pietro Vernotico - Stadio",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "valore": 23.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo - Fanin     ",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 23.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 58.0,
+    "superamenti_pm10": 11.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Lendinuso",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 15.0,
+    "superamenti_pm10": 2.0
+  },
+  {
+    "nome_centralina": "Candela - Ex Comes",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Scuola",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Foggia - Via Rosati",
+    "comune": "Foggia",
+    "provincia": "Foggia",
+    "valore": 30.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Cap. di porto",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Ungaretti",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Via dei Mandorli",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 21.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Michelangelo",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monte S. Angelo - Ciuffreda",
+    "comune": "Monte Sant Angelo",
+    "provincia": "Foggia",
+    "valore": 16.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo  - Municipio",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 23.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "San Severo - Azienda Russo",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Posta del Principe",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Arnesano - Riesci",
+    "comune": "Arnesano",
+    "provincia": "Lecce",
+    "valore": 39.0,
+    "superamenti_pm10": 7.0
+  },
+  {
+    "nome_centralina": "Campi S.na - I.T.C.  Costa ",
+    "comune": "Campi Salentina",
+    "provincia": "Lecce",
+    "valore": 37.0,
+    "superamenti_pm10": 5.0
+  },
+  {
+    "nome_centralina": "Galatina - I.T.C.  La Porta ",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 47.0,
+    "superamenti_pm10": 6.0
+  },
+  {
+    "nome_centralina": "Galatina - S. Barbara",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Guagnano - Villa Baldassarri",
+    "comune": "Guagnano",
+    "provincia": "Lecce",
+    "valore": 23.0,
+    "superamenti_pm10": 3.0
+  },
+  {
+    "nome_centralina": "Lecce - Libertini",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 32.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "De Santis",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Cerrate",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 20.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Garigliano",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 27.0,
+    "superamenti_pm10": 2.0
+  },
+  {
+    "nome_centralina": "Lecce - P.za Palio",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via vecchia San Pietro in Lama",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Surbo - Giorgilorio",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Surbo- Via Croce ",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "valore": 15.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Grottaglie - Via XXV Luglio",
+    "comune": "Grottaglie",
+    "provincia": "Taranto",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Martina Franca - Via Stazione",
+    "comune": "Martina Franca",
+    "provincia": "Taranto",
+    "valore": 28.0,
+    "superamenti_pm10": 3.0
+  },
+  {
+    "nome_centralina": "Massafra -Via Frappietri",
+    "comune": "Massafra",
+    "provincia": "Taranto",
+    "valore": 19.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Ponte Wind",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 13.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Via delle Sorgenti",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Alto Adige",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 26.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "Taranto - Archimede",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 20.0,
+    "superamenti_pm10": 1.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 13.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Machiavelli",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 26.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - San Vito",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 30.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Talsano",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 25.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Altamura - Via Santeramo",
+    "comune": "Altamura",
+    "provincia": "Bari",
+    "valore": 22.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Caldarola",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 25.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Cavour",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 27.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bitonto - EN01",
+    "comune": "Bitonto",
+    "provincia": "Bari",
+    "valore": 20.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Casamassima - LaPenna",
+    "comune": "Casamassima",
+    "provincia": "Bari",
+    "valore": 21.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN02",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 23.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - Aldo Moro",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - ItalGreen (Liceo Artistico L. Russo)",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 17.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Andria - Via Vaccina",
+    "comune": "Andria",
+    "provincia": "BAT",
+    "valore": 26.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - Casardi",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 25.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - MM Ipercoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 23.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mezzo Mobile - IperCoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Terminal Passeggeri",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Casale",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 22.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi -Via Taranto",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 23.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Ceglie Messapica - Via Martina",
+    "comune": "Ceglie Messapica",
+    "provincia": "Brindisi",
+    "valore": 20.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo - Fanin     ",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 50.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Foggia - Via Rosati",
+    "comune": "Foggia",
+    "provincia": "Foggia",
+    "valore": 21.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo  - Municipio",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Azienda Russo",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 15.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Posta del Principe",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Campi S.na - I.T.C.  Costa ",
+    "comune": "Campi Salentina",
+    "provincia": "Lecce",
+    "valore": 24.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - I.T.C.  La Porta ",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Libertini",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 27.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Cerrate",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 17.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Garigliano",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Pitagora",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Maglie - I.T.C. De Castro",
+    "comune": "Maglie",
+    "provincia": "Lecce",
+    "valore": 30.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Alto Adige",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 15.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Archimede",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 13.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 9.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Machiavelli",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 14.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Altamura - Via Santeramo",
+    "comune": "Altamura",
+    "provincia": "Bari",
+    "valore": 90.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Caldarola",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 86.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Carbonara",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 71.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Cavour",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 88.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - CUS",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 103.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Kennedy",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 98.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "CIAPI",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Japigia",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Politecnico",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bitonto - EN01",
+    "comune": "Bitonto",
+    "provincia": "Bari",
+    "valore": 60.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Casamassima - LaPenna",
+    "comune": "Casamassima",
+    "provincia": "Bari",
+    "valore": 55.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "ENAIP",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN02",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 119.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN03",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 73.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN04",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 142.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Magna Grecia",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "ASM",
+    "comune": "Molfetta",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Molfetta - Verdi",
+    "comune": "Molfetta",
+    "provincia": "Bari",
+    "valore": 85.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - Aldo Moro",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 81.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - ItalGreen (Liceo Artistico L. Russo)",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 69.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Palo del Colle - EN05",
+    "comune": "Palo del Colle",
+    "provincia": "Bari",
+    "valore": 85.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Andria - Via Vaccina",
+    "comune": "Andria",
+    "provincia": "BAT",
+    "valore": 90.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - Casardi",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 92.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - MM Ipercoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 77.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mezzo Mobile - IperCoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Terminal Passeggeri",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Bozzano",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Cappuccini",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 99.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Casale",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 93.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Perrino",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 79.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - SISRI",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 67.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Via dei Mille",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 108.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi -Via Taranto",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 83.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Ceglie Messapica - Via Martina",
+    "comune": "Ceglie Messapica",
+    "provincia": "Brindisi",
+    "valore": 65.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Cisternino - Via Croce",
+    "comune": "Cisternino",
+    "provincia": "Brindisi",
+    "valore": 43.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Francavilla Fontana - Via Filzi",
+    "comune": "Francavilla Fontana",
+    "provincia": "Brindisi",
+    "valore": 88.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mesagne - Via Udine",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "valore": 53.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mesagne-Via Antonucci",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Pancrazio Salentino - Via Deledda",
+    "comune": "San Pancrazio Salentino",
+    "provincia": "Brindisi",
+    "valore": 39.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "S. Pietro Vernotico - Valzani",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Pietro Vernotico - Stadio",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "valore": 39.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Vito dei Normanni",
+    "comune": "San Vito dei Normanni",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo - Fanin     ",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 62.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 66.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Lendinuso",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 44.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Ex Comes",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Scuola",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Foggia - Via Rosati",
+    "comune": "Foggia",
+    "provincia": "Foggia",
+    "valore": 74.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Cap. di porto",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Ungaretti",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Via dei Mandorli",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 74.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Michelangelo",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monte S. Angelo - Ciuffreda",
+    "comune": "Monte Sant Angelo",
+    "provincia": "Foggia",
+    "valore": 29.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo  - Municipio",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 49.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Azienda Russo",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 15.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Posta del Principe",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 97.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 60.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Campi S.na - I.T.C.  Costa ",
+    "comune": "Campi Salentina",
+    "provincia": "Lecce",
+    "valore": 63.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - I.T.C.  La Porta ",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 43.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - S. Barbara",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Guagnano - Villa Baldassarri",
+    "comune": "Guagnano",
+    "provincia": "Lecce",
+    "valore": 32.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Libertini",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 105.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "De Santis",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Cerrate",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 36.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Garigliano",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 90.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - P.za Palio",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via Romagna",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via vecchia San Pietro in Lama",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Pitagora",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Maglie - I.T.C. De Castro",
+    "comune": "Maglie",
+    "provincia": "Lecce",
+    "valore": 57.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Surbo - Giorgilorio",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Surbo- Via Croce ",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "valore": 61.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Grottaglie - Via XXV Luglio",
+    "comune": "Grottaglie",
+    "provincia": "Taranto",
+    "valore": 35.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Martina Franca - Via Stazione",
+    "comune": "Martina Franca",
+    "provincia": "Taranto",
+    "valore": 88.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Massafra -Via Frappietri",
+    "comune": "Massafra",
+    "provincia": "Taranto",
+    "valore": 76.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Ponte Wind",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 51.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Via delle Sorgenti",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 44.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Alto Adige",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 88.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Archimede",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 69.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 27.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Machiavelli",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 79.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - San Vito",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 74.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Talsano",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 42.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Altamura - Via Santeramo",
+    "comune": "Altamura",
+    "provincia": "Bari",
+    "valore": 87.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - CUS",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 89.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Kennedy",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 79.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Politecnico",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bitonto - EN01",
+    "comune": "Bitonto",
+    "provincia": "Bari",
+    "valore": 95.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Casamassima - LaPenna",
+    "comune": "Casamassima",
+    "provincia": "Bari",
+    "valore": 92.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN02",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 93.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Magna Grecia",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - Casardi",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 71.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - MM Ipercoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 74.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mezzo Mobile - IperCoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Terminal Passeggeri",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Casale",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 90.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Cisternino - Via Croce",
+    "comune": "Cisternino",
+    "provincia": "Brindisi",
+    "valore": 101.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mesagne-Via Antonucci",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "S. Pietro Vernotico - Valzani",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Vito dei Normanni",
+    "comune": "San Vito dei Normanni",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Ex Comes",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 96.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Scuola",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monte S. Angelo - Ciuffreda",
+    "comune": "Monte Sant Angelo",
+    "provincia": "Foggia",
+    "valore": 75.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo  - Municipio",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Azienda Russo",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 90.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Posta del Principe",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Arnesano - Riesci",
+    "comune": "Arnesano",
+    "provincia": "Lecce",
+    "valore": 93.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - I.T.C.  La Porta ",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 88.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - S. Barbara",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "De Santis",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Cerrate",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 97.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - P.za Palio",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via Romagna",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via vecchia San Pietro in Lama",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Pitagora",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Maglie - I.T.C. De Castro",
+    "comune": "Maglie",
+    "provincia": "Lecce",
+    "valore": 90.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Grottaglie - Via XXV Luglio",
+    "comune": "Grottaglie",
+    "provincia": "Taranto",
+    "valore": 86.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - San Vito",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 81.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Talsano",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 78.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Caldarola",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 1.1,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Cavour",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 2.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Japigia",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Politecnico",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "STANIC",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Molfetta - Verdi",
+    "comune": "Molfetta",
+    "provincia": "Bari",
+    "valore": 2.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - Aldo Moro",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 0.9,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - ItalGreen (Liceo Artistico L. Russo)",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 1.1,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Andria - Via Vaccina",
+    "comune": "Andria",
+    "provincia": "BAT",
+    "valore": 3.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - Casardi",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Terminal Passeggeri",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - SISRI",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Via dei Mille",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 1.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi -Via Taranto",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 1.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Ceglie Messapica - Via Martina",
+    "comune": "Ceglie Messapica",
+    "provincia": "Brindisi",
+    "valore": 1.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Francavilla Fontana - Via Filzi",
+    "comune": "Francavilla Fontana",
+    "provincia": "Brindisi",
+    "valore": 2.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mesagne-Via Antonucci",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Vito dei Normanni",
+    "comune": "San Vito dei Normanni",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 3.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Scuola",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Foggia - Via Rosati",
+    "comune": "Foggia",
+    "provincia": "Foggia",
+    "valore": 1.1,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Via dei Mandorli",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "cokeria",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 36.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Direzione",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 3.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Portineria C",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 0.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Riv1",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 1.2,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 1.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Libertini",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 1.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "De Santis",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Garigliano",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.9,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - P.za Palio",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via Romagna",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via vecchia San Pietro in Lama",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Pitagora",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Martina Franca - Via Stazione",
+    "comune": "Martina Franca",
+    "provincia": "Taranto",
+    "valore": 0.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Massafra -Via Frappietri",
+    "comune": "Massafra",
+    "provincia": "Taranto",
+    "valore": 1.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Alto Adige",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 1.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 0.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Machiavelli",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 1.2,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Altamura - Via Santeramo",
+    "comune": "Altamura",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Caldarola",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.8,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Carbonara",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bari - Cavour",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Japigia",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Politecnico",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "STANIC",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Bitonto - EN01",
+    "comune": "Bitonto",
+    "provincia": "Bari",
+    "valore": 0.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "ENAIP",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN02",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.9,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN03",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Modugno - EN04",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 1.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Magna Grecia",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - Aldo Moro",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 0.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Palo del Colle - EN05",
+    "comune": "Palo del Colle",
+    "provincia": "Bari",
+    "valore": 1.2,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Andria - Via Vaccina",
+    "comune": "Andria",
+    "provincia": "BAT",
+    "valore": 0.8,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - MM Ipercoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 1.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mezzo Mobile - IperCoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Terminal Passeggeri",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Cappuccini",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 1.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Perrino",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - SISRI",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi -Via Taranto",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.9,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Ceglie Messapica - Via Martina",
+    "comune": "Ceglie Messapica",
+    "provincia": "Brindisi",
+    "valore": 0.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mesagne-Via Antonucci",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "S. Pietro Vernotico - Valzani",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Vito dei Normanni",
+    "comune": "San Vito dei Normanni",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 1.1,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Ex Comes",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 1.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Scuola",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Foggia - Via Rosati",
+    "comune": "Foggia",
+    "provincia": "Foggia",
+    "valore": 0.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Via dei Mandorli",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.9,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Michelangelo",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo  - Municipio",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Severo - Posta del Principe",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 0.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Campi S.na - I.T.C.  Costa ",
+    "comune": "Campi Salentina",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - I.T.C.  La Porta ",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 0.8,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Libertini",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.9,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "De Santis",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Cerrate",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Garigliano",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.8,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - P.za Palio",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via Romagna",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Via vecchia San Pietro in Lama",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Pitagora",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Maglie - I.T.C. De Castro",
+    "comune": "Maglie",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Surbo - Giorgilorio",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Via delle Sorgenti",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 0.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Alto Adige",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 0.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Archimede",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 0.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 0.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Machiavelli",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 0.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - San Vito",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 0.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "CIAPI",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Japigia",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Politecnico",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "ENAIP",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Magna Grecia",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "ASM",
+    "comune": "Molfetta",
+    "provincia": "Bari",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - MM Ipercoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 9.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mezzo Mobile - IperCoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Terminal Passeggeri",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Bozzano",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Cappuccini",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 4.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Casale",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Perrino",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 4.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - SISRI",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 6.8,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - Via dei Mille",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi -Via Taranto",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Ceglie Messapica - Via Martina",
+    "comune": "Ceglie Messapica",
+    "provincia": "Brindisi",
+    "valore": 6.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Cisternino - Via Croce",
+    "comune": "Cisternino",
+    "provincia": "Brindisi",
+    "valore": 6.1,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mesagne - Via Udine",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Pancrazio Salentino - Via Deledda",
+    "comune": "San Pancrazio Salentino",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "S. Pietro Vernotico - Valzani",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "San Pietro Vernotico - Stadio",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo - Fanin     ",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 5.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 4.6,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Lendinuso",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 6.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Candela - Scuola",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Cap. di porto",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Manfredonia - Ungaretti",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Via Michelangelo",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 9.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - I.T.C.  La Porta ",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Galatina - S. Barbara",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Guagnano - Villa Baldassarri",
+    "comune": "Guagnano",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Cerrate",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Lecce - Garigliano",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Maglie - I.T.C. De Castro",
+    "comune": "Maglie",
+    "provincia": "Lecce",
+    "valore": 6.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Surbo - Giorgilorio",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Surbo- Via Croce ",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "valore": 4.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Massafra -Via Frappietri",
+    "comune": "Massafra",
+    "provincia": "Taranto",
+    "valore": 8.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Ponte Wind",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 4.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Via delle Sorgenti",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 13.4,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Alto Adige",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Archimede",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 4.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 8.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Machiavelli",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 3.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - San Vito",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 1.7,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Talsano",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 3.3,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Barletta - MM Ipercoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 1.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Mezzo Mobile - IperCoop",
+    "comune": "Barletta",
+    "provincia": "BAT",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi -Via Taranto",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "cokeria",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 7.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Direzione",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 2.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 0.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Portineria C",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 1.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Riv1",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 1.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 0.5,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Archimede",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 2.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "cokeria",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 66.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Direzione",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 76.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 162.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Portineria C",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 30.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Riv1",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 38.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 30.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "cokeria",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 371.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Direzione",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 2266.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 999.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Portineria C",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 839.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Riv1",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 1015.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 2638.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - Aldo Moro",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 25.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Monopoli - ItalGreen (Liceo Artistico L. Russo)",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "valore": 8.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Brindisi - SISRI",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 0.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "cokeria",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 4.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Direzione",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 13.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 20.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Portineria C",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 4.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Riv1",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 25.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 30.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Via delle Sorgenti",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 9.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Alto Adige",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 27.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 8.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Machiavelli",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 20.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - San Vito",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 16.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - Talsano",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 6.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "cokeria",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 36.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Direzione",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 25.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 33.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Portineria C",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 11.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Riv1",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 21.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 20.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "cokeria",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 103.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Direzione",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 60.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Meteo Parchi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 119.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Portineria C",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 23.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Riv1",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 35.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Tamburi",
+    "comune": "Taranto",
+    "provincia": "ILVA",
+    "valore": 30.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Torchiarolo-Don Minzoni",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "valore": 56.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Grottaglie - Via XXV Luglio",
+    "comune": "Grottaglie",
+    "provincia": "Taranto",
+    "valore": 13.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Statte - Via delle Sorgenti",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "valore": 16.0,
+    "superamenti_pm10": 0.0
+  },
+  {
+    "nome_centralina": "Taranto - CISI",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "valore": 18.0,
+    "superamenti_pm10": 0.0
+  }
+]
